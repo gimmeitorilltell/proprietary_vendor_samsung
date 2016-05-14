@@ -50,18 +50,15 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/quincyatt/proprietary/bin/netmgrd:system/bin/netmgrd \
 	vendor/samsung/quincyatt/proprietary/bin/ks:system/bin/ks \
 	vendor/samsung/quincyatt/proprietary/bin/qcks:system/bin/qcks \
-	vendor/samsung/quincyatt/proprietary/bin/sec-ril:system/bin/sec-ril \
 	vendor/samsung/quincyatt/proprietary/bin/qmiproxy:system/bin/qmiproxy \
 	vendor/samsung/quincyatt/proprietary/bin/qmuxd:system/bin/qmuxd \
 	vendor/samsung/quincyatt/proprietary/bin/rmt_storage:system/bin/rmt_storage \
-	vendor/samsung/quincyatt/proprietary/bin/rild:system/bin/rild \
 	vendor/samsung/quincyatt/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
 	vendor/samsung/quincyatt/proprietary/lib/libqmi.so:system/lib/libqmi.so \
 	vendor/samsung/quincyatt/proprietary/lib/libqdi.so:system/lib/libqdi.so \
 	vendor/samsung/quincyatt/proprietary/lib/libqdp.so:system/lib/libqdp.so \
 	vendor/samsung/quincyatt/proprietary/lib/libqmiservices.so:system/lib/libqmiservices.so \
 	vendor/samsung/quincyatt/proprietary/lib/libqueue.so:system/lib/libqueue.so \
-	vendor/samsung/quincyatt/proprietary/lib/libril.so:system/lib/libril.so \
 	vendor/samsung/quincyatt/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
 	vendor/samsung/quincyatt/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
 	vendor/samsung/quincyatt/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
